@@ -3247,7 +3247,7 @@
 "bkw" = (/obj/machinery/disposal,/obj/structure/disposalpipe/trunk{icon_state = "pipe-t"; dir = 4},/turf/simulated/floor/tiled/white,/area/lots/business/business_lot_two)
 "bkx" = (/obj/structure/disposalpipe/segment{dir = 4},/turf/simulated/floor/tiled/white,/area/lots/business/business_lot_two)
 "bky" = (/obj/machinery/door/airlock/glass,/turf/simulated/floor/tiled/dark,/area/lots/business/business_lot_one)
-"bkz" = (/obj/machinery/atmospherics/unary/freezer{dir = 2; icon_state = "freezer"},/obj/machinery/light/small{dir = 4},/turf/simulated/floor/tiled,/area/medical/cryo)
+"bkz" = (/obj/machinery/atmospherics/unary/freezer{dir = 8; icon_state = "freezer"},/obj/machinery/light/small{dir = 4},/turf/simulated/floor/tiled,/area/medical/cryo)
 "bkA" = (/obj/machinery/light/small{brightness_color = "#DA0205"; brightness_power = 1; brightness_range = 5; dir = 8},/obj/structure/table/glass,/obj/effect/floor_decal/corner/paleblue/full,/turf/simulated/floor/tiled,/area/medical/chemistry)
 "bkB" = (/obj/machinery/reagentgrinder{pixel_y = 15},/obj/item/weapon/reagent_containers/dropper/industrial,/obj/item/weapon/reagent_containers/dropper/industrial{pixel_y = -5},/obj/structure/table/glass,/obj/effect/floor_decal/corner/paleblue{dir = 10},/turf/simulated/floor/tiled,/area/medical/chemistry)
 "bkC" = (/obj/machinery/door/airlock/glass_medical{name = "Hospital Reception"; req_access = list(5)},/obj/structure/disposalpipe/segment,/obj/machinery/door/firedoor,/obj/effect/floor_decal/industrial/hatch/yellow{color = "#8BBBD5"},/turf/simulated/floor/tiled,/area/medical/reception)
